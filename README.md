@@ -1,0 +1,3 @@
+# Evil costomized .tmux.conf
+
+
